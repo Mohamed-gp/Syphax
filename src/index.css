@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.serbas{
+  background-image: url("/images/Hotel-Syphax-Bejaia-Exterior 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+}
